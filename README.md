@@ -1,1 +1,2 @@
 # BloodPressureEstimation
+pip install numpy
